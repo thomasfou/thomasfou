@@ -55,3 +55,8 @@ clawdbot gateway run
 
 ---
 *Last updated: 2026-02-04*
+
+
+Start with: openclaw gateway install
+Start with: openclaw gateway
+Start with: systemctl --user start openclaw-gateway.service
