@@ -19,7 +19,7 @@ Curated links saved for later reading/watching. Managed by Spitfire.
 ## 💡 Ideas & Inspiration
 
 - **[Dries Vints on AI Bookmark Management](https://x.com/driesvints/status/2019000583626149921)** — Using OpenClaw as a smart bookmark keeper with a `bookmarks.md` file in the workspace. Meta inspiration for this very setup! *(2026-02-04)*
-- **[Alex Finn: Sonnet 5 Speculation](https://x.com/alexfinn/status/2018913012451778946)** — Rumor that Anthropic will drop Sonnet 5 "tomorrow" — smarter than Opus 4.5, half price, double speed, can spin up agent swarms. Take with salt. *(2026-02-04, via MaSec)*
+- **[Alex Finn: Sonnet 5 Speculation](https://x.com/alexfinn/status/2018913012451778946)** — Rumor that Anthropic will drop Sonnet 5 "tomorrow" — smarter than Opus 4.5, half price, double speed, can spin up agent swarms. Take with salt. *(2026-02-04)*
 
 ## 📦 Archive
 
