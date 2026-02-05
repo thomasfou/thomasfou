@@ -14,7 +14,7 @@ Curated links saved for later reading/watching. Managed by Spitfire.
 
 ## 🛠️ Tools & Resources
 
-- **[Claude SEO Brief Prompt](https://x.com/aiwithjainam/status/2018991436222591434)** — Jainam Parmar's prompt that replaced his $800/mo Ahrefs subscription. Claims 39/47 pieces rank in top 10. *(2026-02-04, via MaSec)*
+- **[Claude SEO Brief Prompt](https://x.com/aiwithjainam/status/2018991436222591434)** — Jainam Parmar's prompt that replaced his $800/mo Ahrefs subscription. Claims 39/47 pieces rank in top 10. *(2026-02-04)*
 
 ## 💡 Ideas & Inspiration
 
